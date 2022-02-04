@@ -14,9 +14,10 @@ I set out as a self-taught Software Engineer as a result of my passion for Video
   <a href="https://www.linkedin.com/in/john-kotronakis/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
+  <!--
   <a href="https://gitchaoslord.github.io/">
     <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-crimson?style=for-the-badge"/>
-  </a>
+  </a> -->
   <a href="mailto:williamkotronakis@gmail.com">
     <img alt="mail" title="Gmail" src="https://img.shields.io/badge/Gmail-williamkotronakis-red?style=for-the-badge" />
   </a>
