@@ -1,6 +1,6 @@
 ## Hello, I'm [William](https://gitchaoslord.github.io/)
 
-I set out as an autodidact Software Developer and currently hold more than a year of professional experience.
+I set out as a self-taught Software Engineer as a result of my passion for Video Games and computers. I currently hold more than a year of professional experience.
 
 
 ## Skills & Technologies
