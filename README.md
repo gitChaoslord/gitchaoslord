@@ -1,7 +1,7 @@
 <h2 align="center">
   Hello 
 </h2>
-<p align="center">I'm <a href="https://gitchaoslord.github.io/" target="_blank" rel="noreferrer">William</a></p>
+<p align="center">I'm <a href="https://gitchaoslord.github.io/" target="_blank" rel="noreferrer">William</a>.</p>
 I set out as a self-taught Software Engineer as a result of my passion for Video Games and computers. I currently hold more than a year of professional experience.
 
 
