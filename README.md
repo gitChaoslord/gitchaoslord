@@ -7,7 +7,7 @@ I set out as a self-taught Software Engineer as a result of my passion for Video
 
 ## Skills & Technologies
 - **Advanced**: Angular, React, CSS3, HTML5, JavaScript, Typescript
-- **Intermediate**: Redux, Tailwind,  Ionic, NodeJs, REST-APIs, SQL, Docker, Sass, Scss, Git, Magento
+- **Intermediate**: Redux, Tailwind,  Ionic, NodeJs, REST-APIs, SQL, Docker, Sass, Scss, Git
 - **Basic**: Python, Java, PHP, Unity, C\#, Three.js, WordPress, Mqtt, Photoshop
 
 ## Contact me
