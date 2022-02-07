@@ -1,5 +1,7 @@
-## Hello, I'm [William](https://gitchaoslord.github.io/)
-
+<h2 align="center">
+  Hello 
+</h2>
+<p align="center">I'm <a href="https://gitchaoslord.github.io/" target="_blank" rel="noreferrer">William</a></p>
 I set out as a self-taught Software Engineer as a result of my passion for Video Games and computers. I currently hold more than a year of professional experience.
 
 
@@ -12,15 +14,15 @@ I set out as a self-taught Software Engineer as a result of my passion for Video
 
 <p align="center">
   <a href="https://www.linkedin.com/in/john-kotronakis/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
   <!--
   <a href="https://gitchaoslord.github.io/">
     <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-crimson?style=for-the-badge"/>
   </a> -->
-  <a href="mailto:williamkotronakis@gmail.com">
+<!--   <a href="mailto:williamkotronakis@gmail.com">
     <img alt="mail" title="Gmail" src="https://img.shields.io/badge/Gmail-williamkotronakis-red?style=for-the-badge" />
-  </a>
+  </a> -->
 </p>
 
 <!--
