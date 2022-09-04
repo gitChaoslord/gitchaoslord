@@ -2,13 +2,15 @@
   Hello 
 </h2>
 <p align="center">I'm <a href="https://gitchaoslord.github.io/" target="_blank" rel="noreferrer">William</a>.</p>
-I set out as a self-taught Software Engineer as a result of my passion for Video Games and computers. I currently hold more than a year of professional experience.
+I set out as a self-taught Software Engineer stemming from my passion for Video Games and Computers.
 
 
 ## Skills & Technologies
-- **Advanced**: Angular, React, CSS3, HTML5, JavaScript, Typescript
-- **Intermediate**: Redux, Tailwind,  Ionic, NodeJs, REST-APIs, SQL, Docker, Sass, Scss, Git
-- **Basic**: Python, Java, PHP, Unity, C\#, Three.js, WordPress, Mqtt, Photoshop
+Here is a snapshot of the technologies i use in my everyday tasks.
+- Angular, React, CSS3, HTML5, JavaScript, Typescript, Redux, Tailwind, Ionic, NodeJs, SQL, Docker, Git
+
+I also have some familiarity with  
+- Python, Java, PHP, Unity, C\#, Three.js, WordPress, Mqtt, Photoshop
 
 ## Contact me
 
