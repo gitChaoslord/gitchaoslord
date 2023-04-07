@@ -7,10 +7,10 @@ I set out as a self-taught Software Engineer stemming from my passion for Video 
 
 ## Skills & Technologies
 Here is a snapshot of the technologies i use in my everyday tasks.
-- Angular, React, CSS3, HTML5, JavaScript, Typescript, Redux, Tailwind, Ionic, NodeJs, SQL, Docker, Git
+- React, Angular, Stenciljs, CSS3, HTML5, JavaScript, Typescript, Redux, Tailwind, Ionic, NodeJs, SQL, Docker, Git
 
 I also have some familiarity with  
-- Python, Java, PHP, Unity, C\#, Three.js, WordPress, Mqtt, Photoshop
+- Python, Java, PHP, C\#, Three.js, WordPress, Magento, Unity, Mqtt, Photoshop
 
 ## Contact me
 
