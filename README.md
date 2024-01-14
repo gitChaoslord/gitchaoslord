@@ -10,7 +10,7 @@ Here is a snapshot of the technologies i use in my everyday tasks.
 - React, Angular, Stenciljs, CSS3, HTML5, JavaScript, Typescript, Redux, Tailwind, Ionic, NodeJs, SQL, Docker, Git
 
 I also have some familiarity with  
-- Python, Java, Vue, PHP, C\#, Three.js, WordPress, Magento, Unity, Mqtt, Photoshop
+- Python, Go, Java, Vue, PHP, C\#, Three.js, WordPress, Magento, Unity, Mqtt, Photoshop
 
 ## Contact me
 
