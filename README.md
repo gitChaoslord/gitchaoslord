@@ -2,15 +2,15 @@
   Hello 
 </h2>
 <p align="center">I'm <a href="https://gitchaoslord.github.io/" target="_blank" rel="noreferrer">William</a>.</p>
-I set out as a self-taught Software Engineer stemming from my passion for Video Games and Computers.
+A Web Developer with informal education in computer science stemming from my passion for Video Games and Computers.
 
 
 ## Skills & Technologies
-Here is a snapshot of the technologies i use in my everyday tasks.
-- React, Angular, Stenciljs, CSS3, HTML5, JavaScript, Typescript, Redux, Tailwind, Ionic, NodeJs, SQL, Docker, Git
+Here is a snapshot of the technologies I use in my day-to-day tasks.
+- React, CSS3, HTML5, JavaScript, Typescript, Redux, Tailwind, Ionic, NodeJs, SQL, Docker, Git
 
 I also have some familiarity with  
-- Python, Go, Java, Vue, PHP, C\#, Three.js, WordPress, Magento, Unity, Mqtt, Photoshop
+- Angular, React Native, Python,Stenciljs, Go, Java, Vue, PHP, C\#, Three.js, WordPress, Magento, Unity, MQTT, Photoshop
 
 ## Contact me
 
